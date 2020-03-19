@@ -12,4 +12,4 @@ The notebook does the following:
 * Stores the pretty graph
 
 Example:
-![](https://github.com/jeffluppes/rivm_corona_map_plot/blob/master/corona_cases_netherlands17-Mar-2020.png)
+![](https://github.com/jeffluppes/rivm_corona_map_plot/blob/master/corona_spread_netherlands.gif)
